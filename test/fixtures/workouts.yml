@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  dificulty: MyString
+  reps: 1
+  sets: 1
+  focus: MyString
+
+two:
+  name: MyString
+  description: MyString
+  dificulty: MyString
+  reps: 1
+  sets: 1
+  focus: MyString
